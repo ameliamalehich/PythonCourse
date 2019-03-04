@@ -1,1 +1,1 @@
->>> str("Hello World!")*10
+>>> str("Hello World! ")*10
